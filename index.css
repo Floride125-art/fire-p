@@ -6,7 +6,7 @@ h1{
    text-align-last: center; 
    font-size: xx-large;
    margin-bottom: 50px; 
-   text-shadow:2px 2px 5px blue;
+   text-shadow:2px 2px 5px rgb(7, 7, 165);
    
    position: fixed;
    width: 100%;
